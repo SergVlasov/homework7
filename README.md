@@ -16,7 +16,7 @@ m = 3, n = 4.
 8 4 2 4
 17 -> такого числа в массиве нет
 
-[Code]()
+[Code](https://github.com/SergVlasov/homework7/blob/main/task002/Program.cs)
 
 
 ## Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
@@ -26,4 +26,4 @@ m = 3, n = 4.
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
 
-[Code]()
+[Code](https://github.com/SergVlasov/homework7/blob/main/task003/Program.cs)
